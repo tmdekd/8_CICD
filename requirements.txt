@@ -1,0 +1,3 @@
+django
+djangorestframework
+gunicorn                # WSGI server(WAS Server) for running the app in production
